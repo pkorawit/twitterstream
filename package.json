@@ -1,0 +1,9 @@
+{
+  "name": "twitterstream",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
